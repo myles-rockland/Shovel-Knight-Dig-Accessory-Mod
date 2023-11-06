@@ -14,7 +14,7 @@ When you have completed the steps above, your Shovel Knight Dig folder should lo
 ![Screenshot of the Shovel Knight Dig install folder layout once the steps above are completed.](./skdInstallFolder.png)
 
 # How it works
-Press \[Up + Attack] to equip a random accessory!
+Press \[Up + Attack] to equip a random accessory, and press \[Up + Jump] to equip a random food item!
 
 # Known issues
 - Can't progress past title screen sometimes
