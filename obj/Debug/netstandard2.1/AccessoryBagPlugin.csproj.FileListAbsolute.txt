@@ -1,0 +1,13 @@
+C:\Users\Myles\Documents\programs\skd\AccessoryBagPlugin\AccessoryBagPlugin\obj\Debug\netstandard2.1\AccessoryBagPlugin.csproj.AssemblyReference.cache
+C:\Users\Myles\Documents\programs\skd\AccessoryBagPlugin\AccessoryBagPlugin\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\Myles\Documents\programs\skd\AccessoryBagPlugin\AccessoryBagPlugin\obj\Debug\netstandard2.1\AccessoryBagPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myles\Documents\programs\skd\AccessoryBagPlugin\AccessoryBagPlugin\obj\Debug\netstandard2.1\AccessoryBagPlugin.AssemblyInfoInputs.cache
+C:\Users\Myles\Documents\programs\skd\AccessoryBagPlugin\AccessoryBagPlugin\obj\Debug\netstandard2.1\AccessoryBagPlugin.AssemblyInfo.cs
+C:\Users\Myles\Documents\programs\skd\AccessoryBagPlugin\AccessoryBagPlugin\obj\Debug\netstandard2.1\AccessoryBagPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Myles\Documents\programs\skd\AccessoryBagPlugin\AccessoryBagPlugin\bin\Debug\netstandard2.1\AccessoryBagPlugin.deps.json
+C:\Users\Myles\Documents\programs\skd\AccessoryBagPlugin\AccessoryBagPlugin\bin\Debug\netstandard2.1\AccessoryBagPlugin.dll
+C:\Users\Myles\Documents\programs\skd\AccessoryBagPlugin\AccessoryBagPlugin\bin\Debug\netstandard2.1\AccessoryBagPlugin.pdb
+C:\Users\Myles\Documents\programs\skd\AccessoryBagPlugin\AccessoryBagPlugin\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Myles\Documents\programs\skd\AccessoryBagPlugin\AccessoryBagPlugin\obj\Debug\netstandard2.1\AccessoryBagPlugin.csproj.CopyComplete
+C:\Users\Myles\Documents\programs\skd\AccessoryBagPlugin\AccessoryBagPlugin\obj\Debug\netstandard2.1\AccessoryBagPlugin.dll
+C:\Users\Myles\Documents\programs\skd\AccessoryBagPlugin\AccessoryBagPlugin\obj\Debug\netstandard2.1\AccessoryBagPlugin.pdb
