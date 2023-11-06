@@ -18,3 +18,4 @@ Press \[Up + Attack] to equip a random accessory, and press \[Up + Jump] to equi
 
 # Known issues
 - Can't progress past title screen sometimes
+- Doesn't work with current version of game
